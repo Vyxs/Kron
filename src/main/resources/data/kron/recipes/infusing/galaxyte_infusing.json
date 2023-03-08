@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:galaxyte"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 2000
+  },
+  "output": {
+    "item": "kron:galaxyte_ingot",
+    "count": 2
+  }
+}

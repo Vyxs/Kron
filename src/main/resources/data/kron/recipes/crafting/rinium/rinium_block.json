@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:rinium_ingot"
+    }
+  },
+  "result": {
+    "item": "kron:rinium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 1600,
+  "experience": 1.5,
+  "ingredient": {
+    "item": "kron:divinium_ore"
+  },
+  "result": "kron:divinium_ingot"
+}

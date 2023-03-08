@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:enferium"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 700
+  },
+  "output": {
+    "item": "kron:enferium_ingot",
+    "count": 2
+  }
+}

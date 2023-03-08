@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:enferium_block"
+        }
+    ],
+    "result": {
+        "item": "kron:enferium_ingot",
+        "count": 9
+    }
+}

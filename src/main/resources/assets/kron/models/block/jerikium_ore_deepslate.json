@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kron:block/ore/deepslate/jerikium_deepslate_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:ternabir_ingot"
+        }
+    ],
+    "result": {
+        "item": "kron:ternabir_nugget",
+        "count": 9
+    }
+}

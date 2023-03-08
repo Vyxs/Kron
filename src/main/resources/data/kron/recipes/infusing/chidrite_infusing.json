@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:chidrite"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 400
+  },
+  "output": {
+    "item": "kron:chidrite_ingot",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:bozarite_ingot"
+    }
+  },
+  "result": {
+    "item": "kron:bozarite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:divinium_ingot"
+    }
+  },
+  "result": {
+    "item": "kron:divinium_block",
+    "count": 1
+  }
+}

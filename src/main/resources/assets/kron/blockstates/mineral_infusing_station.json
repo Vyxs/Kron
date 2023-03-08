@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kron:block/mineral_infusing_station"
+    },
+    "facing=east": {
+      "model": "kron:block/mineral_infusing_station",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kron:block/mineral_infusing_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kron:block/mineral_infusing_station",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:genudium_block"
+        }
+    ],
+    "result": {
+        "item": "kron:genudium_ingot",
+        "count": 9
+    }
+}

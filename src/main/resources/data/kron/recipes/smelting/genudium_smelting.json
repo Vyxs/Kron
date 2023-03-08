@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 800,
+  "experience": 0.8,
+  "ingredient": {
+    "item": "kron:genudium"
+  },
+  "result": "kron:genudium_ingot"
+}

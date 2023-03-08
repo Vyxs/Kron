@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "kron:katone_ore",
+    "kron:varyte_ore",
+    "kron:ternabir_ore",
+    "kron:chidrite_ore",
+    "kron:rinium_ore",
+    "kron:bozarite_ore",
+    "kron:enferium_ore",
+    "kron:genudium_ore",
+    "kron:jerikium_ore",
+    "kron:endite_ore",
+    "kron:divinium_ore",
+    "kron:galaxyte_ore"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 400,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "kron:chidrite"
+  },
+  "result": "kron:chidrite_ingot"
+}

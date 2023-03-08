@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:galaxyte_ingot"
+        }
+    ],
+    "result": {
+        "item": "kron:galaxyte_nugget",
+        "count": 9
+    }
+}

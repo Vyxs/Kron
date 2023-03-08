@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 100
+  },
+  "output": {
+    "item": "minecraft:glass",
+    "count": 2
+  }
+}

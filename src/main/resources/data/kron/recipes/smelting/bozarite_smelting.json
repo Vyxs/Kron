@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 400,
+  "experience": 0.6,
+  "ingredient": {
+      "item": "kron:bozarite"
+  },
+  "result": "kron:bozarite_ingot"
+}

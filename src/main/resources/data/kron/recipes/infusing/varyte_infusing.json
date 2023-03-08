@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:varyte"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 200
+  },
+  "output": {
+    "item": "kron:varyte_ingot",
+    "count": 2
+  }
+}

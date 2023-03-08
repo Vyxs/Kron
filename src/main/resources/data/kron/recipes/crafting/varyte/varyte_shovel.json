@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "H": {
+      "item": "kron:varyte"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kron:varyte_shovel",
+    "count": 1
+  }
+}

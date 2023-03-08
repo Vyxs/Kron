@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:genudium"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 800
+  },
+  "output": {
+    "item": "kron:genudium_ingot",
+    "count": 2
+  }
+}

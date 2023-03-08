@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 400,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "kron:rinium"
+  },
+  "result": "kron:rinium_ingot"
+}

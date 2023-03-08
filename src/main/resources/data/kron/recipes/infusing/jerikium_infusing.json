@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:jerikium"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 900
+  },
+  "output": {
+    "item": "kron:jerikium_ingot",
+    "count": 2
+  }
+}

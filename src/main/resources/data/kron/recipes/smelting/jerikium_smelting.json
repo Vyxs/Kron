@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 800,
+  "experience": 0.9,
+  "ingredient": {
+    "item": "kron:jerikium"
+  },
+  "result": "kron:jerikium_ingot"
+}

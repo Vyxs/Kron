@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kron:block/katone_generator"
+    },
+    "facing=east": {
+      "model": "kron:block/katone_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kron:block/katone_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kron:block/katone_generator",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:endite"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 1000
+  },
+  "output": {
+    "item": "kron:endite_ingot",
+    "count": 2
+  }
+}

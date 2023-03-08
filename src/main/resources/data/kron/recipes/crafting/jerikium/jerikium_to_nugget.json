@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:jerikium_ingot"
+        }
+    ],
+    "result": {
+        "item": "kron:jerikium_nugget",
+        "count": 9
+    }
+}

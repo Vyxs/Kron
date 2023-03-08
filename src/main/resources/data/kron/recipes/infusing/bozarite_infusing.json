@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:bozarite"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 600
+  },
+  "output": {
+    "item": "kron:bozarite_ingot",
+    "count": 2
+  }
+}

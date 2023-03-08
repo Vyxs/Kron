@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:ternabir"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 300
+  },
+  "output": {
+    "item": "kron:ternabir_ingot",
+    "count": 2
+  }
+}

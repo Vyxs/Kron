@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:genudium_ingot"
+    }
+  },
+  "result": {
+    "item": "kron:genudium_block",
+    "count": 1
+  }
+}

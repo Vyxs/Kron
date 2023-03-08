@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:endite_ingot"
+        }
+    ],
+    "result": {
+        "item": "kron:endite_nugget",
+        "count": 9
+    }
+}

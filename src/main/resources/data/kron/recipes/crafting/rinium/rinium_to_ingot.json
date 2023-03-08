@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kron:rinium_block"
+        }
+    ],
+    "result": {
+        "item": "kron:rinium_ingot",
+        "count": 9
+    }
+}

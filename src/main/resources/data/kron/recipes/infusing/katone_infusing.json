@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:katone"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 100
+  },
+  "output": {
+    "item": "kron:katone_ingot",
+    "count": 2
+  }
+}

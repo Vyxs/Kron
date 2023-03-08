@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:enferium_nugget"
+    }
+  },
+  "result": {
+    "item": "kron:enferium_ingot",
+    "count": 1
+  }
+}

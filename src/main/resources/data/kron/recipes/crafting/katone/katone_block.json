@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:katone_ingot"
+    }
+  },
+  "result": {
+    "item": "kron:katone_block",
+    "count": 1
+  }
+}

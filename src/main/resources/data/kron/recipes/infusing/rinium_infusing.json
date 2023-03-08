@@ -1,0 +1,16 @@
+{
+  "type": "kron:mineral_infusing",
+  "ingredients": [
+    {
+      "item": "kron:rinium"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:lava",
+    "Amount": 500
+  },
+  "output": {
+    "item": "kron:rinium_ingot",
+    "count": 2
+  }
+}

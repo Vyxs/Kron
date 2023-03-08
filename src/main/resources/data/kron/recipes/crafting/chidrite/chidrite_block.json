@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "kron:chidrite_ingot"
+    }
+  },
+  "result": {
+    "item": "kron:chidrite_block",
+    "count": 1
+  }
+}
